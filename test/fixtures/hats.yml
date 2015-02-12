@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  string: MyString
+  color: MyString
+  string: MyString
+  hot: MyString
+  boolean: MyString
+
+two:
+  type: 
+  string: MyString
+  color: MyString
+  string: MyString
+  hot: MyString
+  boolean: MyString
